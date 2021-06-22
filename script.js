@@ -38,7 +38,7 @@ function writePassword(){
 
 } else if (lowerChoice && numberChoice && specialChoice){
 
-    choices = lowerCase.concat(numbers, upperCase)
+    choices = lowerCase.concat(numbers, special)
 
 } else if (upperChoice && numberChoice && specialChoice){
 
@@ -96,8 +96,6 @@ function writePassword(){
   finalpassword = password.join('');
   passwordText.value = finalpassword;
 };
-  
-writePassword();
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
