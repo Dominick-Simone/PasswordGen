@@ -2,7 +2,7 @@
 
 ## Deployed Website and Screenshot
 
-![Deployed-Website] (https://github.com/Dominick-Simone/PasswordGen/blob/main/Screenshot.jpg) 
+![Deployed-Website] (https://dominick-simone.github.io/PasswordGen/) 
 ![Website-Screenshot] (C:\Users\HP\Desktop\Weekly Coding Stuff\week 3 homework done\Develop\Website Screenshot)
 
 ## Work Done
