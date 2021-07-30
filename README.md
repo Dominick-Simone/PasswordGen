@@ -11,6 +11,9 @@
 *CSS
 *JavaScript
 
+## Description
+This is a user input based app that generates a password based on the users choices.
+
 ## Work Done
 
 * Created all variables needed
