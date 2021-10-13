@@ -2,8 +2,8 @@
 
 ## Deployed Website and Screenshot
 
-![Deployed-Website] (https://dominick-simone.github.io/PasswordGen/) 
-![Website-Screenshot] (C:\Users\HP\Desktop\Weekly Coding Stuff\week 3 homework done\Develop\Website Screenshot)
+[Deployed-Website] (https://dominick-simone.github.io/PasswordGen/) 
+[Website-Screenshot] (C:\Users\HP\Desktop\Weekly Coding Stuff\week 3 homework done\Develop\Website Screenshot)
 
 ## Technologies Used
 
