@@ -2,13 +2,13 @@
 
 ## Deployed Website and Screenshot
 
-Deployed App: https://dominick-simone.github.io/PasswordGen/)
+Deployed App: https://dominick-simone.github.io/PasswordGen/
 
 ## Technologies Used
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Description
 This is a user input based app that generates a password based on the users choice of characters.
