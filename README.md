@@ -2,8 +2,7 @@
 
 ## Deployed Website and Screenshot
 
-[Deployed-Website] (https://dominick-simone.github.io/PasswordGen/) 
-[Website-Screenshot] (C:\Users\HP\Desktop\Weekly Coding Stuff\week 3 homework done\Develop\Website Screenshot)
+Deployed App: https://dominick-simone.github.io/PasswordGen/)
 
 ## Technologies Used
 
@@ -12,7 +11,7 @@
 *JavaScript
 
 ## Description
-This is a user input based app that generates a password based on the users choices.
+This is a user input based app that generates a password based on the users choice of characters.
 
 ## Work Done
 
@@ -21,7 +20,7 @@ This is a user input based app that generates a password based on the users choi
 * Created if and else if statements for each combination of characters in the password
 * Added a for loop to generate the password
 * Joined the password to remove commas from the array
-* Inserted the finished password into the box on the website for the user
+* Inserted the finished password into the text box on the page for the user
 
 ## MIT License
 
